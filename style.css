@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  border: 1rem solid #99bc85;
+  background-color: #fdfaf6;
+  margin-top: 15rem;
+  border-radius: 1.3rem;
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+}
+
+button {
+  margin-bottom: 1rem;
+  border-radius: 1.2rem;
+  border-color: #e4efe7;
+}
+
+button:hover {
+  background-color: #99bc85;
+}
+
+#my_Age {
+  font-size: 1.4rem;
+  margin-top: 1rem;
+  color: #99bc85;
+  font-weight: bolder;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Fredoka", sans-serif;
+  color: #99bc85;
+}
