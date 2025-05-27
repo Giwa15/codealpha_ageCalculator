@@ -9,7 +9,7 @@ Project Preview.
 
 Follow the steps below
 
-1. Copy the git url into your browser
+1. Copy the git url into your browser (https://giwa15.github.io/CodeAlpha_AgeCalculator/)
 2. Once the user interphase pops up
 3. input your date of birth
 4. click the calculate Age botton to get your age.
